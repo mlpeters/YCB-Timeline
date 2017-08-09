@@ -9,8 +9,8 @@
         "credit": ""
       },
       "text": {
-          "headline": "<p>耶鲁大学与中国悠久的友谊与合作历史</p><p>Yale University and China's History of Friendship and Collaboration</p>",
-          "text": "Scroll through to explore Yale and China's long history. The timeline is divided into 6 categories: Overview of Yale-China Collaboration; Chinese Students at Yale; The Study of China at Yale; Yale Alumni and China; Chinese Art at Yale; and Collaborative Education Programs"
+          "headline": "<p>耶鲁大学与中国悠久的友谊、合作历史</p><p>Yale University and China's History of Friendship and Collaboration</p>",
+          "text": "Scroll through to explore Yale and China's long history. The timeline is divided into 6 categories: <p>1: Yale and China's Long History of Friendship</p><p>2: Chinese Students at Yale</p><p>3: The Study of China at Yale</p><p>4: Yale Alumni and China</p><p>5: Chinese Art at Yale</p><p>6: Collaborative Education Programs</p>"
         }
     },
     "events": [
@@ -25,11 +25,11 @@
         "credit": ""
       },
         "start_date": {
-          "year": "2014"
+          "year": "1835"
         },
         "text": {
           "headline": "China's First Western-Style Hospital",
-          "text": "耶鲁毕业生Peter Parker在广州创办了中国第一家西式医院——眼科医局（Ophthalmic Infirmary）。在19世纪80年代，包括孙中山在内的许多中国人在此学习。这就是今天的中山大学孙逸仙纪念医院。"
+          "text": "Yale graduate Peter Parker establishes China’s first western-style hospital, the Ophthalmic Infirmary, in Guangzhou. Among the Chinese who studied there in the 1880s was Dr. Sun Yat-sen, whose name the hospital now bears."
         }
       },
       {
@@ -191,8 +191,7 @@
         },
         "text": {
           "headline": "Yale Issued a Qualified Foreign Investor License",
-          "text": "Yale is issued a Qualified Foreign Investor license and becomes the first foreign university to gain permission to invest in Chinese stocks and bonds.",
-          "group": "Yale and China Collaborations"
+          "text": "Yale is issued a Qualified Foreign Investor license and becomes the first foreign university to gain permission to invest in Chinese stocks and bonds."
         }
       },
       {
@@ -264,7 +263,7 @@
         },
         "text": {
           "headline": "SJTU-Yale Joint Center for Biostatistics Established",
-          "text": "Shanghai Jiao Tong University and Yale establish the SJTU-Yale Joint Center for Biostatistics, focusing on cancer as well as cardiovascular and metabolic diseases, with special emphasis on translating “bench” research into “bedside” practice."
+          "text": "Shanghai Jiao Tong University and Yale establish the SJTU-Yale Joint Center for Biostatistics, focusing on cancer as well as cardiovascular and metabolic diseases, with special emphasis on translating “bench” research into \"bedside\" practice."
         }
       },
       {
@@ -307,7 +306,7 @@
         "background":{
           "color":"#286dc0"
         },
-        "group":"耶鲁与中国合作",
+        "group":"Yale and China Collaborations",
         "media": {
           "url": "",
           "caption": "",
@@ -336,7 +335,7 @@
         },
         "text": {
           "headline": "Yung Wing Graduates from Yale",
-          "text": "ung Wing graduates from Yale College, becoming the first person from China to earn a degree from an American university."
+          "text": "Yung Wing graduates from Yale College, becoming the first person from China to earn a degree from an American university."
         }
       },
       {
@@ -357,7 +356,7 @@
         },
         "text": {
           "headline": "Chinese Educational Mission Sends Students to Yale",
-          "text": "After returning to China to serve the Qing government, Yung Wing establishes China’s first modern machine factory – the Shanghai Jiangnan Machine Manufacturing Office. Moreover, with approval from the Qing Court to organize the Chinese Educational Mission, Yung Wing sends 120 young Chinese students over ten years to New England for secondary and higher education. Twenty-two enroll at Yale, the favored destination. Yung Wing was the pioneer of the Chinese study abroad industry, and became known as “the father of China’s foreign exchange students.”"
+          "text": "After returning to China to serve the Qing government, Yung Wing establishes China’s first modern machine factory – the Shanghai Jiangnan Machine Manufacturing Office. Moreover, with approval from the Qing Court to organize the Chinese Educational Mission, Yung Wing sends 120 young Chinese students over ten years to New England for secondary and higher education. Twenty-two enroll at Yale, the favored destination. Yung Wing was the pioneer of the Chinese study abroad industry, and became known as \"the father of China’s foreign exchange students.\""
         }
       },
       {
@@ -540,8 +539,7 @@
         },
         "text": {
           "headline": "China Scholarship Council-Yale World Scholars Program Biomedicine is Created",
-          "text": "The China Scholarship Council and Yale create the China Scholarship Council-Yale World Scholars Program in Biomedicine, which allows the best Chinese graduate students in the biomedical sciences to study in Yale’s renowned Biological and Biomedical Sciences program.",
-          "group": "Chinese Students at Yale"
+          "text": "The China Scholarship Council and Yale create the China Scholarship Council-Yale World Scholars Program in Biomedicine, which allows the best Chinese graduate students in the biomedical sciences to study in Yale’s renowned Biological and Biomedical Sciences program."
         }
       },
       {
@@ -576,8 +574,8 @@
           "year": "2010"
         },
         "text": {
-          "headline": "Yale School of Management Professor Chen Zhiwu Named One of the “Ten Public Intellectuals Influencing China\"",
-          "text": "Yale School of Management professor Chen Zhiwu is named one of the “Ten Public Intellectuals Influencing China.” Followers on his Weibo site total more than 10 million."
+          "headline": "Yale School of Management Professor Chen Zhiwu Named One of the \"Ten Public Intellectuals Influencing China\"",
+          "text": "Yale School of Management professor Chen Zhiwu is named one of the \"Ten Public Intellectuals Influencing China.\" Followers on his Weibo site total more than 10 million."
         }
       },
       {
@@ -746,7 +744,7 @@
         "background":{
           "color":"#bd5319"
         },
-        "group":"在耶鲁学习中国",
+        "group":"Study of China at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1071,8 +1069,8 @@
           "year": "2008"
         },
         "text": {
-          "headline": "住院医师实习项目创办",
-          "text": "耶鲁医学院、雅礼协会、湘雅医学院及其附属医院联合创办中国六个住院医师实习项目之一。"
+          "headline": "Model Medical Residency Program Started ",
+          "text": "Yale School of Medicine, Yale-China, and Xiangya School of Medicine and its affiliates partner to create one of six model residency programs in China."
         }
       },
       {
@@ -1089,8 +1087,8 @@
           "year": "2010"
         },
         "text": {
-          "headline": "“十万强”计划发起",
-          "text": "贝拉克•奥巴马总统发起“十万强”计划，鼓励美国学生留学中国，希望到2014年底留学中国人数达到10万。雅礼协会列席联邦顾问委员会，并被选为重点合作伙伴。"
+          "headline": "100,000 Strong Initiative Established",
+          "text": "President Barack Obama establishes the 100,000 Strong initiative, which calls for 100,000 Americans to study in China by the end of 2014. The Yale-China Association sits on the federal advisory committee and is named a signature partner."
         }
       },
       {
@@ -1107,15 +1105,15 @@
           "year": "2011"
         },
         "text": {
-          "headline": "耶鲁校友服务团一周的交流活动",
-          "text": "耶鲁校友服务团组织200名校友及亲友到安徽休宁县进行为期一周的教学与文化交流活动。"
+          "headline": "Yale Alumni Service Corps Holds Week-Long Event",
+          "text": "The Yale Alumni Service Corps brings 200 alumni, family, and friends to Xiuning, Anhui Province, for a week of teaching, learning and cultural exchange."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1125,15 +1123,15 @@
           "year": "1940"
         },
         "text": {
-          "headline": "耶鲁毕业生将中国容器给美术馆",
-          "text": "耶鲁毕业生John Hadley Cox在中国支教英语两年之后，将一批约为公元前500年至公元1000年长沙地区制造的容器文物捐献给耶鲁大学美术馆。今天的美术馆在中国瓷器与绘画方面收藏丰富。耶鲁大学英国艺术中心收藏有William Alexander有关中国风景与人物的素描与水彩画，他在1792-94年间担任英国驻华使团的画工。"
+          "headline": "Chinese Vessels Donated to Art Gallery",
+          "text": "Yale College graduate John Hadley Cox, who spent two years teaching English in China, donates a group of vessels from the Changsha region, spanning ca. 500 B.C.E. to 1000 C.E., to the Yale University Art Gallery, which today has particular strengths in Chinese ceramics and painting. The Yale Center for British Art has drawings and watercolors representing the Chinese landscape and people by William Alexander, who served as the draftsman of the British embassy to the Imperial Court of China in 1792-94."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1146,15 +1144,15 @@
           "year": "1930"
         },
         "text": {
-          "headline": "耶鲁毕业生在中国设计大楼",
-          "text": "耶鲁毕业生Henry Killam Murphy在中国设计了数幢大楼，包括清华大学的大礼堂。"
+          "headline": "Yale Graduate Designs Chinese Buildings",
+          "text": "Yale graduate Henry Killam Murphy designs several major buildings in China, including the Grand Auditorium of Tsinghua University."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1164,15 +1162,15 @@
           "year": "1928"
         },
         "text": {
-          "headline": "幌子在耶鲁学音乐",
-          "text": "黄自在耶鲁学习西方音乐，创作了中国第一部大型交响乐作品《怀旧》。他的艺术歌曲享有盛名，流传至今。1930年代他在上海音乐学院担任教务主任。"
+          "headline": "Huang Tzu Studies Music at Yale",
+          "text": "Huang Tzu studies Western music at Yale, where he composes In Memoriam, the first large-scale orchestral work by a Chinese composer. Famous today for his art songs, he serves as dean of studies at the Shanghai Conservatory of Music in the 1930s."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1182,15 +1180,15 @@
           "year": "1945"
         },
         "text": {
-          "headline": "邬劲旅在耶鲁建筑学院教书",
-          "text": "邬劲旅开始他在耶鲁建筑学院长达43年的教书生涯。两年后，他接受的第一个大工程是设计雅礼中学和长沙医学中心的37幢楼房。"
+          "headline": "King-lui Wu Begins Teaching at Yale School of Architecture",
+          "text": "King-lui Wu begins a 43-year teaching career at the Yale School of Architecture. Two years later, his first major commission is the design of 37 buildings for the Yali Middle School and Changsha Medical Center."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1200,15 +1198,15 @@
           "year": "1969"
         },
         "text": {
-          "headline": "李名觉加入耶鲁戏剧学院",
-          "text": "李名觉加入耶鲁戏剧学院，成为舞台设计系教授。"
+          "headline": "Ming Cho Lee Becomes Drama Professor ",
+          "text": "Ming Cho Lee joins the faculty of the Yale School of Drama, where he is a professor in the Design Department."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1221,15 +1219,15 @@
           "year": "2000"
         },
         "text": {
-          "headline": "“中国文化与文明”系列出版",
-          "text": "耶鲁大学出版社与中国国际出版集团合作出版“中国文化与文明”系列丛书，超过150名来自世界各地的学者参与撰写并出版了九套丛书。1997年，时任国家主席江泽民将首轮出版的《中国绘画三千年》图书作为国礼赠送给时任美国总统、耶鲁法学院毕业生比尔•克林顿。"
+          "headline": "\"The Culture and Civilization of China\" Series Launched",
+          "text": "Yale University Press and China International Publishing Group launch the major series “The Culture and Civilization of China.” More than 150 scholars worldwide collaborate on its nine publications. In 1997, President Jiang Zemin presents the inaugural volume, <i>Three Thousand Years of Chinese Painting</i>, to U.S. President and Yale Law School graduate Bill Clinton as his State Gift."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1239,15 +1237,15 @@
           "year": "1999"
         },
         "text": {
-          "headline": "《中国的有羽毛恐龙》展览在耶鲁",
-          "text": "耶鲁皮博迪自然历史博物馆是美国北部唯一陈列《中国的有羽毛恐龙》这一开创性展览的博物馆，展示中国辽宁出土的带羽毛古生物的珍贵化石标本，距今一亿两千万年。在皮博迪博物馆的入口有一块美丽的水杉化石标本，水杉曾被认为早已灭绝，只存在于化石中。直到1943年在中国中部一个偏僻的山谷里发现了这一依然存在的珍贵树种。"
+          "headline": "Yale Museum Exhibits <i>China's Feathered Dinosaurs</i>",
+          "text": "Yale’s Peabody Museum of Natural History is the only venue in the Northeast United States for the groundbreaking exhibition <i>China’s Feathered Dinosaurs</i>, featuring rare fossil specimens of 120-million-year-old “feathered” animals discovered in Liaoning Province, China. The Peabody’s own collections include, at the entrance to the museum, a magnificent specimen of the dawn redwood (<i>Metasequoia glyptostroboides</i>), which was known only from the fossil record until living examples were rediscovered in 1943 in a remote valley in central China."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1257,15 +1255,15 @@
           "year": "1999"
         },
         "text": {
-          "headline": "耶鲁建筑学院中国工作室成立",
-          "text": "耶鲁建筑学院中国工作室成立。工作室现与清华大学建筑学院合作，每年有两校的学生前往中国城市发展地区实习，重点研究可持续性多功能建筑模式和社区发展。"
+          "headline": "Yale School of Architecture China Studio Founded",
+          "text": "The Yale School of Architecture China Studio is founded. Now in collaboration with Tsinghua University School of Architecture, it annually involves students from both schools in the study of urban development sites in China, with a particular emphasis on models of sustainable mixed-use and neighborhood development."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1275,15 +1273,15 @@
           "year": "2003"
         },
         "text": {
-          "headline": "耶鲁艺术学院毕业生王敏回国",
-          "text": "耶鲁艺术学院毕业生王敏在欧美学习工作二十多年后回国，担任中国中央美术学院设计学院院长及北京奥运设计主任。"
+          "headline": "Yale Art Graduate Min Wang Returns to China",
+          "text": "Yale School of Art graduate Min Wang returns to China after more than twenty years in Europe and the United States to assume the deanship of the School of Design at China Central Academy of Fine Arts and to serve as design director for the Beijing Olympics."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1293,15 +1291,15 @@
           "year": "2008"
         },
         "text": {
-          "headline": "“相约北京2008：世界顶级音乐学院音乐文化交流活动”",
-          "text": "耶鲁音乐学院和北京中央音乐学院汇集世界十所最高音乐学府，举办为期两周的“相约北京2008：世界顶级音乐学院音乐文化交流活动”，为即将开幕的北京奥运会热身。"
+          "headline": "\"Musicathlon\" Hosted Before Olympic Games",
+          "text": "The Yale School of Music and Beijing’s Central Conservatory of Music host ten of the world’s most prestigious conservatories for a “Musicathlon” during the two-week run up to the Olympic Games."
         }
       },
       {
         "background":{
           "color":"#5f712d"
         },
-        "group":"中国艺术",
+        "group":"Chinese Art at Yale",
         "media": {
           "url": "",
           "caption": "",
@@ -1311,15 +1309,15 @@
           "year": "2012"
         },
         "text": {
-          "headline": "冬季学院开办",
-          "text": "上海戏剧学院与耶鲁戏剧学院及其他三所美国大学合作，开办冬季学院。"
+          "headline": "Winter Institute Launched",
+          "text": "The Shanghai Theatre Academy launches an annual Winter Institute, co-sponsored by the Yale School of Drama and three additional American universities."
         }
       },
       {
         "background":{
           "color":"#978d85"
         },
-        "group":"耶魯－中國教育項目",
+        "group":"Collaborative Education Programs",
         "media": {
           "url": "",
           "caption": "",
@@ -1329,33 +1327,15 @@
           "year": "2004"
         },
         "text": {
-          "headline": "大学校长高级研讨班",
-          "text": "耶鲁与中国教育部合作，举办首届中国重点大学校长高级研讨班。"
+          "headline": "Advanced University Leadership Program Begins",
+          "text": "In collaboration with China’s Ministry of Education, Yale hosts the first Advanced University Leadership Program for presidents of China’s top universities."
         }
       },
       {
         "background":{
           "color":"#978d85"
         },
-        "group":"耶魯－中國教育項目",
-        "media": {
-          "url": "",
-          "caption": "",
-          "credit": ""
-        },
-        "start_date": {
-          "year": "2004"
-        },
-        "text": {
-          "headline": "高层管理人员系列教育活动",
-          "text": "清华大学、中国市长协会和耶鲁林业与环境研究学院联合举办高层管理人员系列教育活动，帮助中国市政领导人了解及应对可持续发展的挑战。"
-        }
-      },
-      {
-        "background":{
-          "color":"#978d85"
-        },
-        "group":"耶魯－中國教育項目",
+        "group":"Collaborative Education Programs",
         "media": {
           "url": "",
           "caption": "",
@@ -1365,15 +1345,15 @@
           "year": "2005"
         },
         "text": {
-          "headline": "高级领导人研讨班开班",
-          "text": "耶鲁政府高级领导人研讨班开班，对象为中国政府副部级以上的官员，重点关注依法行政问题。这是在海外设立的中国最高级别的政府领导培训项目。"
+          "headline": "China-Yale Senior Government Leaderhip Program Launched",
+          "text": "The China-Yale Senior Government Leadership Program is launched. This program for vice-minister-level officials in the Chinese government focuses on the rule of law and is attended by the most senior cohort of Chinese government officials to participate in executive advancement programs outside of China."
         }
       },
       {
         "background":{
           "color":"#978d85"
         },
-        "group":"耶魯－中國教育項目",
+        "group":"Collaborative Education Programs",
         "media": {
           "url": "",
           "caption": "",
@@ -1383,15 +1363,15 @@
           "year": "2008"
         },
         "text": {
-          "headline": "食品药品监督培训活动",
-          "text": "耶鲁公共卫生学院为中国国家食品药品监督管理局官员举办培训活动。"
+          "headline": "Collaborative Public Health Programs Begin",
+          "text": "The Yale School of Public Health launches training programs for Chinese officials with the China State Food and Drug Administration."
         }
       },
       {
         "background":{
           "color":"#978d85"
         },
-        "group":"耶魯－中國教育項目",
+        "group":"Collaborative Education Programs",
         "media": {
           "url": "",
           "caption": "",
@@ -1401,15 +1381,15 @@
           "year": "2008"
         },
         "text": {
-          "headline": "第一届CEO峰会",
-          "text": "Snyder院长致力于扩大与中国政府官员、企业家及商界领导的合作项目，促进与美国企业界、学术界及政界要员的互动交流。"
+          "headline": "First CEO Summit in China Hosted by SOM",
+          "text": "The Yale School of Management’s Chief Executive Leadership Institute hosts the first CEO Summit in China. Dean Edward Snyder of the School of Management is expanding the school’s programs for Chinese government officials, entrepreneurs, and business leaders, and facilitating discussion with top leaders from U.S. enterprises, academia, and government."
         }
       },
       {
         "background":{
           "color":"#978d85"
         },
-        "group":"耶魯－中國教育項目",
+        "group":"Collaborative Education Programs",
         "media": {
           "url": "",
           "caption": "",
@@ -1419,15 +1399,15 @@
           "year": "2009"
         },
         "text": {
-          "headline": "“巾帼圆梦：耶鲁-清华国际医疗卫生管理课程”",
-          "text": "耶鲁公共卫生学院和清华大学联合推出为期四年的“巾帼圆梦：耶鲁-清华国际医疗卫生管理课程”，合作培养医疗卫生行业的女性管理人才。"
+          "headline": "\"10,000 Women\" Program Launched",
+          "text": "The four-year \"10,000 Women: Yale-Tsinghua Certificate Program in International Healthcare Management\" is inaugurated by the Yale School of Public Health and Tsinghua University to provide leadership training for female healthcare professionals in China."
         }
       },
       {
         "background":{
           "color":"#978d85"
         },
-        "group":"耶魯－中國教育項目",
+        "group":"Collaborative Education Programs",
         "media": {
           "url": "",
           "caption": "",
@@ -1437,33 +1417,15 @@
           "year": "2010"
         },
         "text": {
-          "headline": "校长发表《世界一流：亚洲名校的崛起》",
-          "text": "时任耶鲁校长Richard C. Levin在《外交事务》上发表《世界一流：亚洲名校的崛起》。"
+          "headline": "President Levin Publishes Essay on Asian Universities",
+          "text": "Then Yale President Richard C. Levin publishes “Top of the Class: The Rise of Asia’s Universities” in <i>Foreign Affairs</i>."
         }
       },
       {
         "background":{
           "color":"#978d85"
         },
-        "group":"耶魯－中國教育項目",
-        "media": {
-          "url": "",
-          "caption": "",
-          "credit": ""
-        },
-        "start_date": {
-          "year": "2010"
-        },
-        "text": {
-          "headline": "中国-耶鲁女性领导发展研讨班",
-          "text": "耶鲁与中华全国妇女联合会合作举办中国-耶鲁女性领导发展研讨班。在第二年的研讨班上，耶鲁法学院毕业生、时任美国国务卿希拉里罗德姆克林顿欢迎中国女性领导者前来美国。"
-        }
-      },
-      {
-        "background":{
-          "color":"#978d85"
-        },
-        "group":"耶魯－中國教育項目",
+        "group":"Collaborative Education Programs",
         "media": {
           "url": "",
           "caption": "",
@@ -1473,15 +1435,15 @@
           "year": "2011"
         },
         "text": {
-          "headline": "耶鲁全球校友领导者交流活动",
-          "text": "耶鲁校友举行耶鲁全球校友领导者交流活动，加强各校间校友联系，并在香港和北京组织领导者会议。"
+          "headline": "Yale Global Alumni Leadership Exchange Launched",
+          "text": "Yale alumni launch the Yale Global Alumni Leadership Exchange to share best practices on alumni relations among universities and organize leadership conferences in Hong Kong and Beijing."
         }
       },
       {
         "background":{
           "color":"#978d85"
         },
-        "group":"耶魯－中國教育項目",
+        "group":"Collaborative Education Programs",
         "media": {
           "url": "",
           "caption": "",
@@ -1491,8 +1453,44 @@
           "year": "2013"
         },
         "text": {
-          "headline": "中华全国青年联合会与耶鲁的合作",
-          "text": "中华全国青年联合会扩大与耶鲁的合作，每年选派优秀青年代表参加耶鲁校园里的领导力培训班。"
+          "headline": "All-China Youth Federation Partners with Yale",
+          "text": "The All-China Youth Federation expands its partnership with Yale, annually sending delegations of rising stars for executive education programs on the Yale campus."
+        }
+      },
+      {
+        "background":{
+          "color":"#978d85"
+        },
+        "group":"Collaborative Education Programs",
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2004"
+        },
+        "text": {
+          "headline": "Sustainable Development Executive Education Programs Launched",
+          "text": "Tsinghua University, the China Association of Mayors, and the Yale School of Forestry & Environmental Studies initiate a series of executive education programs to help Chinese municipal leaders understand and meet the challenges of sustainable development."
+        }
+      },
+      {
+        "background":{
+          "color":"#978d85"
+        },
+        "group":"Collaborative Education Programs",
+        "media": {
+          "url": "",
+          "caption": "",
+          "credit": ""
+        },
+        "start_date": {
+          "year": "2010"
+        },
+        "text": {
+          "headline": "China-Yale Women's Leadership Development Program Founded",
+          "text": "The China-Yale Women’s Leadership Development Program is launched in cooperation with the All-China Women’s Federation. In the program’s second year, participants are welcomed to the United States by Yale Law School graduate and U.S. Secretary of State Hillary Rodham Clinton."
         }
       }
     ]
